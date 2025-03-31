@@ -6,10 +6,10 @@
 // 6. Now append this message to the (message variable) `his best show is Silicon Valley`.
 // 7. Now Log your Message.
 
-let favActorFirstName = "Bertram";
-let favActorLastName = "Gilfoyle";
-let fullName = favActorFirstName + " " + favActorLastName;
-let uppercase = fullName.toUpperCase();
-let message = `My Favorite Actor is ${uppercase}, `;
-message += `his best show is silicon valley`;
+let favActorFirstName = "Mr_Gusain";
+let favActorLastName = "Gusain";
+let fullName = favActorFirstName + favActorLastName;
+let uppercase = favActorFirstName.toUpperCase();
+let message = `My favorite Actor Is ${uppercase} & say something about your fav actor`;
+message += "his best show is Silicon Valley";
 console.log(message);

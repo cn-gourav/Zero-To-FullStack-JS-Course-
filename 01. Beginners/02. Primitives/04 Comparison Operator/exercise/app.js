@@ -10,14 +10,13 @@
 // 10. Check is (firstFavNumb is not equal to secondFavNumb) using loose non-equality operator.
 
 let firstFavNumb = 21;
-let secondFavNumb = 10;
+let secondFAvNumb = 10;
 
-console.log(firstFavNumb > secondFavNumb);
-console.log(firstFavNumb < secondFavNumb);
-console.log(firstFavNumb >= secondFavNumb);
-console.log(firstFavNumb <= secondFavNumb);
-
-console.log(firstFavNumb === secondFavNumb);
-console.log(firstFavNumb !== secondFavNumb);
-console.log(firstFavNumb == secondFavNumb);
-console.log(firstFavNumb != secondFavNumb);
+console.log(firstFavNumb > secondFAvNumb);
+console.log(firstFavNumb < secondFAvNumb);
+console.log(firstFavNumb >= secondFAvNumb);
+console.log(firstFavNumb <= secondFAvNumb);
+console.log(firstFavNumb === secondFAvNumb);
+console.log(firstFavNumb == secondFAvNumb);
+console.log(firstFavNumb !== secondFAvNumb);
+console.log(firstFavNumb != secondFAvNumb); 

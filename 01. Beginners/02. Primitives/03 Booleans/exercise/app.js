@@ -3,9 +3,7 @@
 // 3. Create variable name (favNumb) & store your favorite number inside.
 // 4. Now Add favNumber with the value of undefined.
 
-let isJsProgrammingLanguage = true;
+let isJsProgrammingLanguage = true; 
 let isJsHard = false;
 let favNumb = 21;
-console.log(isJsProgrammingLanguage);
-console.log(isJsHard);
 console.log(favNumb + undefined);

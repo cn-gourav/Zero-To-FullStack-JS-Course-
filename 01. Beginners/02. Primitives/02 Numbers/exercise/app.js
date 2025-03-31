@@ -8,11 +8,10 @@
 // 8. Check the power of (firstFavNum)
 
 let firstFavNum = 21;
-let secondFavNum = 7;
+let secondFavNum = 10;
 
 console.log(firstFavNum + secondFavNum);
 console.log(firstFavNum - secondFavNum);
 console.log(firstFavNum * secondFavNum);
-console.log(firstFavNum / secondFavNum);
 console.log(firstFavNum % secondFavNum);
 console.log(firstFavNum ** secondFavNum);
